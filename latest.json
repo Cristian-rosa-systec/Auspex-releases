@@ -1,0 +1,13 @@
+{
+  "version": "0.1.2-beta.43",
+  "notes": "ci: enable ultra-fast pipeline for beta releases\ndocs(ideas): add Calendar, Pomodoro, Scratchpad and Distraction Shield features\ndocs(ideas): add A-073 Clapy Orchestrator for Auspex Ultra",
+  "commit": "a44bcf0729",
+  "commitTime": 1791053369,
+  "pub_date": "2026-10-03T19:11:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTm9GNWdwVW1OOGVTVFB0djlmM29zeXJaczVocnlwOWozaytubWFZSnNyZVNRWWVFRXBPdmNacVFpdVBxV1lnRGlkc254Znl2UGdZbnFoRmRNZ3N1aU5YMWdBRURXZVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDU0Njk4CWZpbGU6QXVzcGV4XzAuMS4yLWJldGEuNDNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yLWJldGEuNDMKMEZmQUUvNjBvTkxQTjd3N2VwRnFUVUdGR0VHSEtDSURiM1poZm9mRTllVVc3Z1A4c05ualBjOHNoZXpkdUVxZmtWbjFZTmpiZm1NbXd0TnVVN3JvQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/Cristian-rosa-systec/Auspex-releases/beta/Auspex-Windows-0.1.2-beta.43-setup.exe"
+    }
+  }
+}
